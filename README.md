@@ -8,7 +8,7 @@ Lalu menekan "Horror Movie 2021" agar masuk ke homepage
 Deskripsi Website: 
 1. Website sudah dikonversi dari html ke react.js
 2. Fungsionalitas wishlist ditambhkan dengan penggunaan cookies sehingga wishlist tetap bertahan bila direfresh.
-3. Data diambil dari genre film Horrom TMDB API
+3. Data diambil dari genre film Horror TMDB API 2021
 4. Website sudah sesuai dengan ketentuan tugas GDSC ITB
 
 Pada Kesempatan ini saya membuaat suatu movie-app dengan react.js untuk memenuhi salah satu tugas Front End GDSC 2021 
@@ -22,5 +22,5 @@ Berikut tampilan awal wishlist Page :
 Berikut tampilan home page bila tombol Wishlist ditekan : 
 ![1636560767058](https://user-images.githubusercontent.com/90374689/141152543-bb7405a1-3c45-4d71-9a8b-9dbf715bda10.jpg)
 
-Berikut tampilan wishlist page setelah wishlist pada home page ditekan : 
+Berikut tampilan wishlist page setelah tombol wishlist pada home page ditekan : 
 ![1636560785116](https://user-images.githubusercontent.com/90374689/141152748-2255065a-840c-4099-b544-9467d94c12ec.jpg)
