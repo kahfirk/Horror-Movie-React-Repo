@@ -5,6 +5,11 @@ https://kahfirk.github.io/Horror-Movie-React-Website/
 
 Lalu menekan "Horror Movie 2021" agar masuk ke homepage
 
+**NOTE** : 
+Terdapat bug reload pada website. Jika anda ingin memastikan apakah wishlist Anda tersimpan,
+Anda dapat melakukan search ulang pada link google ke https://kahfirk.github.io/Horror-Movie-React-Website/
+lalu silahkan cek wishlist anda.
+
 Deskripsi Website: 
 1. Website sudah dikonversi dari html ke react.js
 2. Fungsionalitas wishlist ditambhkan dengan penggunaan cookies sehingga wishlist tetap bertahan bila direfresh.
